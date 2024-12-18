@@ -1,4 +1,4 @@
-# vite-plugin-svg-icons
+# vite-plugin-svg-icons-icker
 
 **English** | [中文](./README.zh_CN.md)
 
@@ -16,11 +16,11 @@ Used to generate svg sprite map.
 **vite version:** >=2.0.0
 
 ```bash
-yarn add vite-plugin-svg-icons -D
+yarn add vite-plugin-svg-icons-icker -D
 # or
-npm i vite-plugin-svg-icons -D
+npm i vite-plugin-svg-icons-icker -D
 # or
-pnpm install vite-plugin-svg-icons -D
+pnpm install vite-plugin-svg-icons-icker -D
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ pnpm install vite-plugin-svg-icons -D
 - Configuration plugin in vite.config.ts
 
 ```ts
-import { createSvgIconsPlugin } from 'vite-plugin-svg-icons'
+import { createSvgIconsPlugin } from 'vite-plugin-svg-icons-icker'
 import path from 'path'
 
 export default () => {
@@ -241,7 +241,7 @@ If using `Typescript`, you can add in `tsconfig.json`
 // tsconfig.json
 {
   "compilerOptions": {
-    "types": ["vite-plugin-svg-icons/client"]
+    "types": ["vite-plugin-svg-icons-icker/client"]
   }
 }
 ```

@@ -1,7 +1,7 @@
 {
-  "name": "vite-plugin-svg-icons-monorepo",
-  "private": true,
-  "version": "2.0.1",
+  "name": "vite-plugin-svg-icons-icker",
+  "private": false,
+  "version": "2.0.2",
   "license": "MIT",
   "author": "Vben",
   "scripts": {
@@ -22,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vbenjs/vite-plugin-svg-icons"
+    "url": "https://github.com/yinluobing/vite-plugin-svg-icons"
   },
   "bugs": {
-    "url": "https://github.com/vbenjs/vite-plugin-svg-icons/issues"
+    "url": "https://github.com/yinluobing/vite-plugin-svg-icons/issues"
   },
-  "homepage": "https://github.com/vbenjs/vite-plugin-svg-icons/tree/main/#readme",
+  "homepage": "https://github.com/yinluobing/vite-plugin-svg-icons/tree/main/#readme",
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
     "@commitlint/config-conventional": "^16.0.0",
